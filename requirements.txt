@@ -1,0 +1,5 @@
+matplotlib==3.7.1
+numpy==1.24.2
+opencv_python==4.7.0.68
+tflite_runtime==2.14.0
+torch==2.0.0+cu117
